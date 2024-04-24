@@ -97,9 +97,7 @@ hr {
 
 .project-img {
   height: 60%;
-  filter: grayscale(1);
   background-size: cover;
-  
   overflow: hidden;
 }
 
