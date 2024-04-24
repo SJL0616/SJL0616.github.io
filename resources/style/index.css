@@ -99,7 +99,7 @@ hr {
   height: 60%;
   filter: grayscale(1);
   background-size: cover;
-  background-color: var(--color-grey);
+  
   overflow: hidden;
 }
 
